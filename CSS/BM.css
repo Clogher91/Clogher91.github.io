@@ -1,0 +1,68 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 8 Mar 2024, 11:33:09
+    Author     : paull
+*/
+
+/* Reset some default styles */
+body, h1, h2, h3, p, img {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: left;
+    padding: 20px 50px;
+    max-width: 800px; /* Adjust this value to your preference */
+    margin: 0 auto; 
+}
+
+/* Container for content */
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+/* Headings */
+h1 {
+    color: #333;
+}
+
+h3 {
+    color: #555;
+}
+
+/* Paragraphs */
+p {
+    color: #666;
+    margin-bottom: 15px;
+}
+
+/* Images */
+img {
+    
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+/* Provide some spacing between sections */
+.section {
+    margin-bottom: 40px;
+}
+
+
+.stuff{
+    padding: 70px 0;
+  text-align: center;
+}
+.important{
+    color:red;
+}
